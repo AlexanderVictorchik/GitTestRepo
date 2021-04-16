@@ -1,1 +1,2 @@
 Lets try something new
+Some new feature for file2
