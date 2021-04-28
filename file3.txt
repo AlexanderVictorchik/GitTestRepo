@@ -1,1 +1,2 @@
 Add new feature with file3
+change for soft reset in file3

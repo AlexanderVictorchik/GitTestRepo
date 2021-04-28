@@ -1,2 +1,3 @@
 new file for reset function test
 with changes
+change for soft reset in file4
