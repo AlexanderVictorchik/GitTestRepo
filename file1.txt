@@ -1,5 +1,3 @@
 Hello from Sania
 Welcome to GIT
 My first change in commit
-New feature for file1
-change for mixed reset in file1
