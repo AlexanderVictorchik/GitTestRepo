@@ -3,3 +3,4 @@ Welcome to GIT
 My first change in commit
 New feature for file1
 change for mixed reset in file1
+Change in file1 for reset + checkout combo
