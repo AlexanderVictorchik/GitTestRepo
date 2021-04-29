@@ -1,2 +1,3 @@
 Lets try something new
 Some new feature for file2
+change for mixed reset in file2
