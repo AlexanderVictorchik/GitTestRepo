@@ -1,3 +1,4 @@
 Add new feature with file3
 change for soft reset in file3
 change for mixed reset in file3
+Change in file3 for amend function
