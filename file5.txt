@@ -1,2 +1,3 @@
 Work with clean command
 Check of remote repo functions
+Change in file5 for GitTest project in IDEA
