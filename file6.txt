@@ -1,2 +1,5 @@
 Add SSH in Git
 I like Git so much..
+Change in file6 with GitHub +
+Change in file6 with IntelliJIDEA
+We take them all
